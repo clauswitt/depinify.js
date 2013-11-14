@@ -1,0 +1,19 @@
+{
+  "name": "depinify.js",
+  "version": "0.0.1",
+  "description": "an example library to show how dependency injection knows what is injected",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "mocha": "~1.14.0",
+    "chai": "~1.8.1",
+    "browserify": "~2.35.1",
+    "grunt-mocha-test": "~0.7.0",
+    "grunt-browserify": "~1.2.11"
+  }
+}
